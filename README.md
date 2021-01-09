@@ -188,5 +188,3 @@ Conclusion : Maruti is the highest sold brand followed by Hyundai across cities
 
 Submitted By : 
 Adarsh Challa
-Sandhya CSR 
-
